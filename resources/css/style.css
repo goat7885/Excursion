@@ -16,3 +16,20 @@ h1 {
   font-size: 16px;
   font-family: Verdana
 }
+
+.variant {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.sentence {
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+}
+
+footer {
+  text-align: right;
+  color: grey;
+  font-family: Verdana;
+}
