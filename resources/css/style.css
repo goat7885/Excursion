@@ -1,6 +1,7 @@
 body {
   background-color: Black;
   text-align: center;
+  font-family: Verdana, sans-serif;
 }
 
 h1 {
@@ -9,12 +10,6 @@ h1 {
   font-size: 50px;
   color: white;
 
-}
-
-.link {
-  color: Aquamarine;
-  font-size: 16px;
-  font-family: Verdana
 }
 
 .variant {
@@ -32,6 +27,7 @@ footer {
   text-align: right;
   color: grey;
   font-family: Verdana;
+  font-size: 21px;
 }
 
 a {
